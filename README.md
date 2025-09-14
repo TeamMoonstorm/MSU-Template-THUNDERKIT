@@ -9,3 +9,5 @@ This readme contains critical information about the folder setup of the MSU Exam
 The MSU Example Mod is a boilerplate package that contains scripts for building and managing your Mod that utilizes MSU. The boilerplate only contains how to implement a basic Item that utilizes a Buff, but overall will contain how to use most of the utilities and functionality of MSU as a whole.
 
 The custom classes bundled with the Example mod such as ``ItemAssetCollection`` where created inhouse for Starstorm 2, but we've decided to bundle it into the Example mod as well to facilitate the work for future mods.
+
+Test

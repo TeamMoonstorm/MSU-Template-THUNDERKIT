@@ -446,6 +446,15 @@ MonoBehaviour:
     - R2API_Core
     - HookGenPatcher
     - R2API_ContentManagement
+  - submoduleName: R2API_Execute
+    description: R2API_Execute
+    dependedncyID: RiskofThunder-R2API_Execute
+    shouldInstall: 0
+    isHardDependency: 0
+    dependencies:
+    - BepInExPack
+    - R2API_Core
+    - HookGenPatcher
   - submoduleName: R2API_Items
     description: R2API_Items
     dependedncyID: RiskofThunder-R2API_Items
@@ -472,8 +481,8 @@ MonoBehaviour:
     isHardDependency: 0
     dependencies:
     - BepInExPack
-    - R2API_Skins
     - R2API_Core
+    - R2API_Skins
     - HookGenPatcher
     - R2API_ContentManagement
   - submoduleName: R2API_LobbyConfig
@@ -561,7 +570,7 @@ MonoBehaviour:
   - submoduleName: R2API_Skins
     description: R2API_Skins
     dependedncyID: RiskofThunder-R2API_Skins
-    shouldInstall: 0
+    shouldInstall: 1
     isHardDependency: 0
     dependencies:
     - BepInExPack
@@ -591,6 +600,15 @@ MonoBehaviour:
     dependedncyID: RiskofThunder-R2API_StringSerializerExtensions
     shouldInstall: 1
     isHardDependency: 1
+    dependencies:
+    - BepInExPack
+    - R2API_Core
+    - HookGenPatcher
+  - submoduleName: R2API_Teams
+    description: R2API_Teams
+    dependedncyID: RiskofThunder-R2API_Teams
+    shouldInstall: 0
+    isHardDependency: 0
     dependencies:
     - BepInExPack
     - R2API_Core

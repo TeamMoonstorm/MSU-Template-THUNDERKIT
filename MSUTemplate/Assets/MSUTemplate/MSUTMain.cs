@@ -1,5 +1,5 @@
 ﻿/*
- * Thank you for using Thunderkit and MSU to develop your mod, We hope this Template mod boilerplate aids your 
+ * Thank you for using MSU to develop your mod, We hope this Template mod boilerplate aids your 
  * development pipeline.
  * 
  * Keep in mind that MSU expects the end user to know how modding RoR2 works, as such, these comments will work mainly 
